@@ -1,8 +1,6 @@
 # Hey! My name is Rade
 
-This is my website
-
-<div styles="text-align: center;">
+<div style="text-align: center; margin-top:46px;">
   <a href="https://radedev.com" target="_blank" rel="noopener noreferrer">
     <img src="/images/light-circle-color.svg" alt="radedev logo" width="120px" />
   </a>
