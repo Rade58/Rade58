@@ -1,6 +1,6 @@
-[![radedev logo](images/light-circle-color.svg)](https://radedev.com.com)
+# Hello World Foo Bar Baz Lorem Ipsum
 
-
+<a href="https://radedev.com" target="_blank" rel="noopener noreferrer">RadeDev.com</a>
 
 
 <!--
