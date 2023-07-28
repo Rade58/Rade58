@@ -5,7 +5,7 @@
     <img 
       src="/images/light-circle-color.svg"
       canonical-src="/images/light-circle-color.svg"
-      alt="radedev logo" width="120px" />
+      alt="radedev logo" width="216px" />
   </a>
 </div>
 
