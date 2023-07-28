@@ -1,6 +1,6 @@
 # Hello World Foo Bar Baz Lorem Ipsum
 
-<div styles="disply: flex; justify-content: center;">
+<div style="text-align: center;">
   <a href="https://radedev.com" target="_blank" rel="noopener noreferrer">
     <img src="/images/light-circle-color.svg" alt="radedev logo" width="120px" />
   </a>
