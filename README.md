@@ -6,6 +6,7 @@
   </a>
 </div>
 
+[![dark logo](images/dark-circle-color.svg)](https://radedev.com){:target="_blank"}
 
 <!--
 **Rade58/Rade58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
