@@ -1,13 +1,15 @@
 # Hey! My name is Rade
 
-<div>
+[![radedev logo](images/my-wide-logo.svg)](https://radedev.com)
+
+<!-- <div>
   <a href="https://radedev.com" rel="nofollow">
     <img 
       src="/images/wide-logo.svg"
       alt="radedev logo" />
   </a>
 </div>
-
+ -->
 <!-- [![dark logo](images/dark-circle-color.svg)](https://radedev.com){:target="_blank"} -->
 
 <!--
