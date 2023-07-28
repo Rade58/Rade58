@@ -1,6 +1,6 @@
 # Hey! My name is Rade
 
-<div class="d-flex flex-justify-center mt-4">
+<div>
   <a href="https://radedev.com" rel="nofollow">
     <img 
       src="/images/light-circle-color.svg"
