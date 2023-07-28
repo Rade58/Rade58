@@ -1,4 +1,4 @@
-[![Alt Text](images/light-circle-color.svg)](https://radedev.com.com)
+[![radedev logo](images/light-circle-color.svg)](https://radedev.com.com)
 
 
 
