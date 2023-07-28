@@ -1,4 +1,4 @@
-# Hey! My name is Rade
+# Hey! My name is Rade. Welcome!
 
 [![radedev logo](images/my-wide-logo.svg)](https://radedev.com)
 
