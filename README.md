@@ -3,9 +3,8 @@
 <div>
   <a href="https://radedev.com" rel="nofollow">
     <img 
-      src="/images/light-circle-color.svg"
-      canonical-src="/images/light-circle-color.svg"
-      alt="radedev logo" width="216px" />
+      src="/images/wide-logo.svg"
+      alt="radedev logo" />
   </a>
 </div>
 
