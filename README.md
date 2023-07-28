@@ -1,6 +1,8 @@
-# Hello World Foo Bar Baz Lorem Ipsum
+# Hey! My name is Rade
 
-<div style="text-align: center;">
+This is my website
+
+<div styles="text-align: center;">
   <a href="https://radedev.com" target="_blank" rel="noopener noreferrer">
     <img src="/images/light-circle-color.svg" alt="radedev logo" width="120px" />
   </a>
