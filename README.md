@@ -1,8 +1,11 @@
 # Hey! My name is Rade
 
-<div style="text-align: center; margin-top:46px;">
-  <a href="https://radedev.com" target="_blank" rel="noopener noreferrer">
-    <img src="/images/light-circle-color.svg" alt="radedev logo" width="120px" />
+<div class="d-flex flex-justify-center mt-4">
+  <a href="https://radedev.com" rel="nofollow">
+    <img 
+      src="/images/light-circle-color.svg"
+      canonical-src="/images/light-circle-color.svg"
+      alt="radedev logo" width="120px" />
   </a>
 </div>
 
