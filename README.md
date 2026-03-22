@@ -1,6 +1,6 @@
-# Hello World!
+# Rade Bajić (Раде Бајић)
 
-[![radedev logo](images/my-wide-logo.svg)](https://radedev.com)
+[![radedev logo](images/github-rade.svg)](https://radedev.com)
 
 <!-- <div>
   <a href="https://radedev.com" rel="nofollow">
