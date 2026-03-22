@@ -10,13 +10,13 @@
     }
 
     @keyframes driveLeftToRight {
-      from { transform: translateX(-200px); }
+      from { transform: translateX(-1400px); }
       to   { transform: translateX(1400px); }
     }
 
     @keyframes driveRightToLeft {
       from { transform: translateX(1400px); }
-      to   { transform: translateX(-200px); }
+      to   { transform: translateX(-1400px); }
     }
   </style>
 <g id="github-rade" clip-path="url(#clip0_1602_1240)">
