@@ -1,6 +1,10 @@
 # Rade Bajić (Раде Бајић)
-
-[![radedev logo](images/github-rade.svg)](https://radedev.com)
+<div align="center">
+  <a href="https://radedev.com">
+    <img src="images/github-rade.svg" alt="radedev logo" />
+  </a>
+</div>
+<!-- [![radedev logo](images/github-rade.svg)](https://radedev.com) -->
 
 <!-- <div>
   <a href="https://radedev.com" rel="nofollow">
