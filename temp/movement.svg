@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .car-ltr {
+      animation: driveLeftToRight 4s linear infinite;
+    }
+
+    .car-rtl {
+      animation: driveRightToLeft 4s linear infinite;
+      animation-delay: 2s;
+    }
+
+    @keyframes driveLeftToRight {
+      from { transform: translateX(-200px); }
+      to   { transform: translateX(1400px); }
+    }
+
+    @keyframes driveRightToLeft {
+      from { transform: translateX(1400px); }
+      to   { transform: translateX(-200px); }
+    }
+  </style>
+
+  <!-- your static background, roads, mountains here -->
+
+  <!-- near road car, left to right -->
+  <g class="car-ltr">
+    <!-- your yugo svg paths here -->
+  </g>
+
+  <!-- far road car, right to left -->
+  <g class="car-rtl">
+    <!-- your yugo svg paths here -->
+  </g>
+
+</svg>

@@ -1,4 +1,24 @@
 <svg width="793" height="940" viewBox="0 0 793 940" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #Yugo-45-prednji {
+      animation: driveLeftToRight 4s linear infinite;
+    }
+
+    #Yugo-45-daleki {
+      animation: driveRightToLeft 4s linear infinite;
+      animation-delay: 2s;
+    }
+
+    @keyframes driveLeftToRight {
+      from { transform: translateX(-200px); }
+      to   { transform: translateX(1400px); }
+    }
+
+    @keyframes driveRightToLeft {
+      from { transform: translateX(1400px); }
+      to   { transform: translateX(-200px); }
+    }
+  </style>
 <g id="github-rade" clip-path="url(#clip0_1602_1240)">
 <g id="surfaces">
 <rect id="country-surface" x="-7" y="577" width="807" height="385" fill="url(#paint0_linear_1602_1240)"/>
