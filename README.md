@@ -7,7 +7,9 @@
 <!-- [![radedev logo](images/github-rade.svg)](https://radedev.com) -->
 
 <div align="center">
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/radedev)
+  <a href="https://ko-fi.com/radedev">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="radedev tips" />
+  </a>
 </div>
 
 <!-- [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/radedev) -->
