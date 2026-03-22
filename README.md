@@ -6,6 +6,10 @@
 </div>
 <!-- [![radedev logo](images/github-rade.svg)](https://radedev.com) -->
 
+<div align="center>
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/radedev)
+</div>
+
 <!-- <div>
   <a href="https://radedev.com" rel="nofollow">
     <img 
